@@ -1,6 +1,7 @@
 # ALL MY PROJECTS 
 
 I'm Nolann Holvoet, Developer full stack actually in 4th Year of Computer Science
+
 Email : nolann.holvoet@epitech.eu
 
 This repository will keep track of all my projects
