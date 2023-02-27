@@ -1,6 +1,11 @@
-## Mes projets : 
+# ALL MY PROJECTS 
 
-# COLOR PICKER :
+I'm Nolann Holvoet, Developer full stack actually in 4th Year of Computer Science
+Email : nolann.holvoet@epitech.eu
+
+This repository will keep track of all my projects
+
+## COLOR PICKER :
 
 Test your color ideas in a second with the Color Picker Tool.
 
